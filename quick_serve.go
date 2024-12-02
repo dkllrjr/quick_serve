@@ -1,5 +1,4 @@
-package main
-
+package quick_serve
 
 import (
 	"os"
